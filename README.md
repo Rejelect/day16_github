@@ -1,2 +1,4 @@
 # Bu mening README Faylim.
-PRoyekt haqida ma'lumotlar.
+Proyekt haqida ma'lumotlar.
+
+## Cloud
